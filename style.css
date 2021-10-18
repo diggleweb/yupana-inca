@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg {
+    background-color: beige;
+    padding: 30px;
+    display: flex;
+}
+
+.tela {
+    width: 500px;
+    height: 640;
+    background: linear-gradient(to right, rgb(110, 51, 51), rgb(249, 249, 249));
+}
+
+.teclado {
+    background-color: bisque;
+}
+
+.coluna {
+    
+}
