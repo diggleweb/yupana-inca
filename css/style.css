@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    display: flex;
+    display:grid;
     justify-content: center;
     align-items: center;
 }
@@ -10,6 +10,19 @@ body {
     padding: 10px;
     display: flex;
 }
+
+.header{
+    
+    margin: 0;
+    height: 45px;
+    background-color: antiquewhite;
+}
+/* 
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  } */
 
 .tela {
     width: 800px;
