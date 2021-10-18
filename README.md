@@ -35,7 +35,3 @@
     subir arquivos com git..
     - deploy no branch gh-pages
     > npm run deploy 
-
-
-
-
